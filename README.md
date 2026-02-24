@@ -19,3 +19,23 @@ ElementoColor HexMuestra VisualPrimario / Botón#0D47A1🟦 Azul MarinoAppBar / 
 Ahora crea otra pantalla para el boton de guarderia, con la misma appbar con menu vertical y misma paleta de colores, abajo del appbar ira una seccion que ocupara 1/4 de pantalla con la imagen de un perro que este a la izquierda y superpuesto a la derecha ira el titulo "Guarderia " con una breve descripcion del servicio, abajo de esa seccion vendra un titulo "¿Como funciona?" centrado, abajo una tarjeta con una foto de perfil seguido del texto "Diana" abajo de este texto 4 estrellas y a la derecha a la misma altura el texto "Desde $120 al Dia", en medio de la tarjeta este texto "Casa amplia, Cama canina, con patio, sin mascotas propias", abajo de esto dos botones uno con el texto "Reservar" y otro con el texto "Contactar", esa seria una tarjeta.
 Abajo de esa tarjeta otra tarjeta, puedes inventarte la informacion, usa la anterior que te explique como ejemplo
 
+## Ejecucion
+### Pantalla 1 (Web y App)
+<img width="384" height="658" alt="image" src="https://github.com/user-attachments/assets/0f6a9d1b-95fb-4eb8-a562-296e88e4247b" />
+<img width="1261" height="712" alt="image" src="https://github.com/user-attachments/assets/56f134b9-236b-46f5-8ba9-bbe8656f000d" />
+
+### Pantalla 2 (Web y App)
+<img width="364" height="655" alt="image" src="https://github.com/user-attachments/assets/197bc360-4ff6-4391-8f57-04e9331f30f2" />
+<img width="1262" height="708" alt="image" src="https://github.com/user-attachments/assets/53b99467-c140-4072-a220-adcc9590b859" />
+
+### Pantalla 3 (Web y App)
+<img width="369" height="652" alt="image" src="https://github.com/user-attachments/assets/65b091dd-501c-46f7-8f77-0b065f585ba4" />
+<img width="1268" height="707" alt="image" src="https://github.com/user-attachments/assets/1024b32d-4b8c-4bf1-b2c1-e86e229ff3d7" />
+
+
+
+
+
+
+
+
